@@ -4,7 +4,7 @@ using System.Linq;
 namespace SumOf3
     /*
      * 
-     * @author Keishon Rose
+     * @author Keishon Rose 113443769
      * version 7/13/2021
      * 
      */
