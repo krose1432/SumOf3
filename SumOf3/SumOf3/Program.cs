@@ -45,7 +45,8 @@ namespace SumOf3
 
             // This is outputting your resluts.
             Console.WriteLine("The sum of all three of these numbers is " + sum);
-            double product = 7.777 * doubles.Sum();
+            const double baseNumber = 7.777;
+            double product = baseNumber * doubles.Sum();
             Console.WriteLine("The product of 7.777 and " + sum + " is " + product.ToString("F3"));
             
 
